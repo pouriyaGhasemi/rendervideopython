@@ -1,0 +1,6 @@
+pip install -r "E:\limoonad render logo\c4\requirementdds.txt"
+
+"C:\Program Files (x86)\Python37-32\python.exe" "E:\limoonad render logo\c4\views.py"
+"C:\Program Files (x86)\Python37-32\python.exe" "E:\limoonad render logo\c4\tryagain.py"
+
+"C:\Program Files (x86)\Python37-32\python.exe" "E:\limoonad render logo\c4\justrender.py"
